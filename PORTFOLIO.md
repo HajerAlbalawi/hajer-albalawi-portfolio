@@ -43,7 +43,7 @@ Refactored the BikeShare project using Git and GitHub to simulate a realistic wo
 - **Programming for Data Science Nanodegree Certificate**  
   _Issued by: Udacity_  
   _Date Earned: December 31, 2022_  
-  _Description: Completion of Udacity’s Programming for Data Science Nanodegree, covering Python, SQL, and command line skills for data science applications. Includes a capstone project using version control and GitHub._
+  _Description: Completion of Udacity Programming for Data Science Nanodegree, covering Python, SQL, and command line skills for data science applications. Includes a capstone project using version control and GitHub._
 
 ---
 
