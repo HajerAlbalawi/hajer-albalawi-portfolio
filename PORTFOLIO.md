@@ -23,7 +23,7 @@ Refactored the BikeShare project using Git and GitHub to simulate a realistic wo
 
 ---
 
-## Badges and Certificates by Year
+## Certificates 
 
 ### 2025
 - **Data Visualization with R**  
