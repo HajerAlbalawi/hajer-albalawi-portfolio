@@ -1,4 +1,4 @@
-# 📚 ReMood
+# 📚 ReMood project
 
 **رفيقك الشخصي لاختيار الكتاب المناسب لمزاجك**<br>
 **Your personal guide to the right book for your mood**
