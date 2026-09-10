@@ -1,4 +1,4 @@
-# 📚 ReMood project
+# 📚 ReMood
 
 **رفيقك الشخصي لاختيار الكتاب المناسب لمزاجك**<br>
 **Your personal guide to the right book for your mood**
@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HajerAlbalawi/hajer-albalawi-portfolio/master/screenshots/remood-summer-riyadh.jpg" alt="ReMood in Riyadh" width="900" />
 </p>
+
+🔗 **رابط التطبيق:** [افتح ReMood](https://ReMood.replit.app)
 
 ---
 
@@ -171,6 +173,8 @@ https://www.goodreads.com/user/show/123456789-user-name
 ---
 
 # English
+
+🔗 **Live app:** [Open ReMood](https://ReMood.replit.app)
 
 ## What is ReMood?
 
