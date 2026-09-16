@@ -133,17 +133,6 @@ https://www.goodreads.com/user/show/123456789-user-name
   <img src="https://raw.githubusercontent.com/HajerAlbalawi/hajer-albalawi-portfolio/master/screenshots/book-feedback-options.jpg" alt="أزرار تقييم الكتب في ReMood" width="850" />
 </p>
 
-## 🤖 مساعد اكتشاف الكتب
-
-يمكنك وصف الكتاب الذي تريده بجملة طبيعية، مثل:
-
-> أريد رواية دافئة وذكية لنهاية أسبوع هادئة.
-
-يوفر المساعد طلباً خاصاً، وجوهرة خفية، ورائجاً الآن، وكتاباً كلاسيكياً، وقراءة قصيرة. يراعي المزاج والطقس والوقت والفصل، ثم يتيح لك مراجعة الاقتراحات وتحديد الكتب التي تريد إضافتها إلى البطاقات.
-
-## 🎙️ الطلب الصوتي
-
-يمكنك تسجيل طلبك بدلاً من كتابته. يحوّل التطبيق الصوت إلى نص لتراجعه قبل البحث. وإذا تعذر الوصول إلى الميكروفون أو تحويل التسجيل، تظهر رسالة واضحة ويمكنك الكتابة يدوياً.
 
 ## 🕘 السجل والإحصاءات
 
@@ -288,17 +277,6 @@ ReMood confirms that your reaction will shape the next search. Select the active
   <img src="https://raw.githubusercontent.com/HajerAlbalawi/hajer-albalawi-portfolio/master/screenshots/book-feedback-options.jpg" alt="Book feedback buttons in ReMood" width="850" />
 </p>
 
-## 🤖 Book discovery assistant
-
-Describe what you want in natural language, for example:
-
-> A warm, intelligent novel for a quiet weekend.
-
-The assistant offers a custom request, hidden gem, trending title, classic book, and short reading. It considers your mood, weather, time, and season, then lets you review the suggestions and select books to add to the cards.
-
-## 🎙️ Voice request
-
-Record your request instead of typing it. ReMood turns the recording into text so you can review it before searching. If microphone access or transcription fails, the app displays a clear message and keeps manual typing available.
 
 ## 🕘 History and statistics
 
